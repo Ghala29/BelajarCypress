@@ -1,6 +1,12 @@
 # Tugas-Pekanan-5-UI-Testing
 By Ghala Sudana
 
+## Link Test Step Dan Test Scenario With the locator of web element
+```bash
+https://docs.google.com/spreadsheets/d/1pn-Zyblr6g-v57l5KaVUqtueylCm9ZJD2UBcGejKT7Y/edit?usp=sharing
+```
+![image](https://user-images.githubusercontent.com/85092513/219956296-ae28e9cd-53a0-43a5-b3ae-264bf06e2870.png)
+
 ## How to run
 ```bash
 npm install
